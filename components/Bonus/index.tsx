@@ -40,8 +40,8 @@ const About = () => {
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                We provide you with the best resources, templates and perks to help you grow your
+                freelance career.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -54,7 +54,7 @@ const About = () => {
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
                     Templates
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>Curated Templates To land the top 1% of jobs</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -67,7 +67,7 @@ const About = () => {
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
                     Cheat sheets
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>A Well structured Cheat sheet so that you dont have any trouble getting clients.</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -80,7 +80,7 @@ const About = () => {
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
                     Access to a private community
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>You get access to our Discord,where we have menotrship and thousands of freelancers.</p>
                 </div>
               </div>
             </motion.div>
