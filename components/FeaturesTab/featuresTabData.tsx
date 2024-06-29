@@ -16,14 +16,14 @@ const featuresTabData: FeatureTab[] = [
 We'll guide you through a step-by-step process to help you master the critical skills, mindset,
 and strategies needed to thrive as a top-tier freelancer.
  `,
-    desc2: `You'll learn how to position yourself as a top freelancer, attract high-paying clients, and deliver exceptional results that keep clients coming back for more.`,
+    desc2: `You'll learn how to position yourself as a top freelancer on Upwork, attract high-paying clients, and deliver exceptional results that keep clients coming back for more.`,
     image: "/images/new/course-benefits.png",
     imageDark: "/images/new/course-benefits.png",
   },
   {
     id: "tabThree",
     title: "Comprehensive Curriculum to Elevate Your Freelancing",
-    desc1: `This [day]-week course is designed to help you master the skills, strategies, and mindset needed to succeed as a top-tier freelancer. `,
+    desc1: `This [day]-week course is designed to help you master the skills, strategies, and mindset needed to succeed as a top-tier Upwork freelancer.`,
     desc2: `This course is designed in a way that you can learn at your own phase and our mentors will give you the feedback and guidance you need to improve.`,
     image: "/images/new/curriculum-2.png",
     imageDark: "/images/new/curriculum-2.png",

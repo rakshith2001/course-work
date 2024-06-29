@@ -32,9 +32,7 @@ const CTA = () => {
                 Ready to Transform Your Freelancing Career?
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                convallis tortor eros. Donec vitae tortor lacus. Phasellus
-                aliquam ante in maximus.
+                limited time offer! Join the course now and get a 30% discount the purchase of your course.
               </p>
             </motion.div>
             <motion.div

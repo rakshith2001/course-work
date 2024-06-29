@@ -16,8 +16,8 @@ const Feature = () => {
               title: "PROBLEM",
               subtitle: "Are You Struggling to Earn What You Deserve on Upwork?",
               description: `Are you tired of the constant hustle, the feast-or-famine cycle, and the endless chase for
-clients? The harsh reality is that most freelancers are settling for mediocrity, unaware
-of the strategies and mindset shifts that separate the top 1% from the rest. It's time to break free from the "average" freelance life and take control of your career. You
+clients? The harsh reality is that most freelancers on Upwork are settling for mediocrity, unaware
+of the strategies and mindset shifts that separate the top 1% from the rest. It's time to break free from the "average" freelance life on Upwork and take control of your career. You
 deserve better, and we're here to show you the way.`,
             }}
           />
