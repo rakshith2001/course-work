@@ -4,8 +4,8 @@ const featuresTabData: FeatureTab[] = [
   {
     id: "tabOne",
     title: "Meet Your Mentor: A Proven Upwork Success",
-    desc1: `Meet [Name] - a top-rated freelancer on Upwork with over [X] years of experience. [Name] has helped countless freelancers like you achieve their goals and build successful freelance careers. `,
-    desc2: `With [Name] as your mentor, you'll have access to the strategies, insights, and support you need to take your freelance career to the next level.`,
+    desc1: `Meet Gocha Vazha - a top-rated freelancer on Upwork with over 10 years of experience. Gocha Vazha has helped countless freelancers like you achieve their goals and build successful freelance careers. `,
+    desc2: `With Gocha Vazha as your mentor, you'll have access to the strategies, insights, and support you need to take your freelance career to the next level.`,
     image: "/images/new/mentor.png",
     imageDark: "/images/new/mentor.png",
   },
@@ -23,7 +23,7 @@ and strategies needed to thrive as a top-tier freelancer.
   {
     id: "tabThree",
     title: "Comprehensive Curriculum to Elevate Your Freelancing",
-    desc1: `This [day]-week course is designed to help you master the skills, strategies, and mindset needed to succeed as a top-tier Upwork freelancer.`,
+    desc1: `This 7-week course is designed to help you master the skills, strategies, and mindset needed to succeed as a top-tier Upwork freelancer.`,
     desc2: `This course is designed in a way that you can learn at your own phase and our mentors will give you the feedback and guidance you need to improve.`,
     image: "/images/new/curriculum-2.png",
     imageDark: "/images/new/curriculum-2.png",
