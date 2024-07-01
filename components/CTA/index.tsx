@@ -57,7 +57,7 @@ const CTA = () => {
                 <Image
                   width={299}
                   height={299}
-                  src="/images/shape/shape-06.png"
+                  src="/images/shape/placeholder.png"
                   alt="Saly"
                   className="hidden xl:block"
                 />

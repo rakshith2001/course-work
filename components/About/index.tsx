@@ -29,7 +29,7 @@ const About = () => {
               className="animate_left relative mx-auto hidden aspect-[588/526.5] md:block md:w-1/2"
             >
               <Image
-                src="/images/new/transform-2.png"
+                src="/images/new/negotiating_deal.png"
                 alt="tranform"
                 className="rounded"
                 fill
