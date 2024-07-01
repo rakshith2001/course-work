@@ -9,7 +9,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Graphic Designer",
     image: image1,
     content:
-      "Before working with [Your Firm], I was struggling to make $3,000 a month. Within six months of implementing their strategies, I landed my first $10,000 project. I've never looked back since.",
+      "Before working with Uprise, I was struggling to make $3,000 a month. Within six months of implementing their strategies, I landed my first $10,000 project. I've never looked back since.",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Web Developer",
     image: image2,
     content:
-      "Before working with [Your Firm], I was finding it hard to earn $3,000 a month. But within just six months of applying their strategies, I secured my first $10,000 project. I've never looked back since.",
+      "Before working with Uprise, I was finding it hard to earn $3,000 a month. But within just six months of applying their strategies, I secured my first $10,000 project. I've never looked back since.",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Digital Marketer",
     image: image1,
     content:
-      "Before working with [Your Firm], I was struggling to make $3,000 a month. Within six months of implementing their strategies, I landed my first $10,000 project. I've never looked back since.",
+      "Before working with Uprise, I was struggling to make $3,000 a month. Within six months of implementing their strategies, I landed my first $10,000 project. I've never looked back since.",
   },
   {
     id: 4,
@@ -33,6 +33,6 @@ export const testimonialData: Testimonial[] = [
     designation: "Data analist",
     image: image2,
     content:
-      "Before teaming up with [Your Firm], I struggled to reach $3,000 monthly. In just six months of working together, I secured my first $10,000 project and haven't looked back since.",
+      "Before teaming up with Uprise, I struggled to reach $3,000 monthly. In just six months of working together, I secured my first $10,000 project and haven't looked back since.",
   },
 ];
