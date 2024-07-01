@@ -177,7 +177,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 20,
     name: "Oliver Martinez",
-    designation: "Web Developer",
+    designation: "Ios Developer",
     image: image4,
     content:
       "Uprise transformed my freelance career. I was barely making $2,500 a month, but within just four months of using their strategies, I landed a $12,000 project. It's been an incredible journey.",
