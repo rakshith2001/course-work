@@ -19,8 +19,8 @@ const CountdownComponent = () => {
   };
 
   return (
-    <div className="bg-yellow-300 text-black text-center py-2 top-0 z-50">
-      <span>Offer expires in: </span>
+    <div className="bg-yellow-400 text-black text-center py-2 top-0 z-50">
+      <span>Limited Offer🔥🔥 upto 50% Off, Offer ends in: </span>
       <Countdown date={offerEndDate} renderer={renderer} />
     </div>
   );
