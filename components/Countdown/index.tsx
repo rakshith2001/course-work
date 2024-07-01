@@ -3,7 +3,7 @@ import React from 'react';
 import Countdown from 'react-countdown';
 
 const CountdownComponent = () => {
-  const offerEndDate = new Date(Date.now() + 7 * 24 * 60 * 60 * 1000);
+  const offerEndDate = new Date(Date.now() + 1 * 24 * 60 * 60 * 1000);
   const renderer = ({ days, hours, minutes, seconds, completed }) => {
     if (completed) {
       // Render a message when the countdown completes
