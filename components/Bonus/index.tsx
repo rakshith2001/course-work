@@ -105,13 +105,13 @@ const About = () => {
               <Image
                 src="/images/about/about_section.png"
                 alt="About"
-                className="dark:hidden"
+                className="dark:hidden rounded-sm"
                 fill
               />
               <Image
-                src="/images/new/resources.png"
+                src="/images/about/about_section.png"
                 alt="About"
-                className="hidden dark:block"
+                className="hidden dark:block rounded-sm"
                 fill
               />
             </motion.div>

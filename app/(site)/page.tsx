@@ -4,11 +4,14 @@ import Feature from "@/components/Features";
 import About from "@/components/About";
 import Bonus from "@/components/Bonus";
 import FeaturesTab from "@/components/FeaturesTab";
-import FunFact from "@/components/FunFact";
+
 import CTA from "@/components/CTA";
 import FAQ from "@/components/FAQ";
 import Pricing from "@/components/Pricing";
 import Testimonial from "@/components/Testimonial";
+import Brands from "@/components/Brands";
+
+
 
 export const metadata: Metadata = {
   title: "Hello World",
